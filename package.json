@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "momentjs": "^2.0.0"
+  },
+  "scripts": {}
+}
